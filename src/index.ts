@@ -28,7 +28,7 @@ export default defineToolPack({
       ],
       component: "@tracht-digital-solutions/tds-tool-qr/tools/QrCode.astro",
       seo: {
-        title: "QR-Code erstellen – kostenlos & ohne Anmeldung",
+        title: "QR-Code erstellen, kostenlos & ohne Anmeldung",
         description:
           "QR-Code kostenlos erstellen, ohne Anmeldung und ohne Ablaufdatum: für Link, Text, WLAN und vCard. Download als PNG oder SVG, direkt im Browser.",
         jsonLdType: "WebApplication",
