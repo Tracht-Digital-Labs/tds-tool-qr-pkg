@@ -1,7 +1,7 @@
 # AGENTS.md — tds-tool-qr-pkg
 
 Tool pack for the public tools platform: the QR-code generator (URL, text, Wi-Fi,
-PNG/SVG export). It builds against `@tracht-digital-solutions/tds-tools-contract`
+PNG/SVG export). It builds against `@tracht-digital-labs/tds-tools-contract`
 and is composed into `tds-tools-frontend` at build time. Everything runs in the
 browser; there is no network call.
 

@@ -1,5 +1,5 @@
 {
-  "name": "@tracht-digital-solutions/tds-tool-qr",
+  "name": "@tracht-digital-labs/tds-tool-qr",
   "version": "0.2.7",
   "description": "QR-Code-Generator tool package for the TDS tools platform (tds-tools). Client-side QR generation (URL / text / WLAN / vCard) with PNG + SVG export.",
   "license": "UNLICENSED",
@@ -32,8 +32,8 @@
     "qrcode": "^1.5.4"
   },
   "peerDependencies": {
-    "@tracht-digital-solutions/tds-shared": ">=0.59.1 <1",
-    "@tracht-digital-solutions/tds-tools-contract": "^1.1.0",
+    "@tracht-digital-labs/tds-shared": ">=0.59.1 <1",
+    "@tracht-digital-labs/tds-tools-contract": "^1.1.0",
     "astro": ">=6",
     "react": ">=18",
     "react-dom": ">=18"
@@ -42,8 +42,8 @@
     "@testing-library/dom": "^10.4.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.6.6",
-    "@tracht-digital-solutions/tds-shared": "^0.67.1",
-    "@tracht-digital-solutions/tds-tools-contract": "^1.1.0",
+    "@tracht-digital-labs/tds-shared": "^0.67.1",
+    "@tracht-digital-labs/tds-tools-contract": "^1.1.0",
     "@types/node": "^26.2.0",
     "@types/qrcode": "^1.5.5",
     "@types/react": "^19.2.18",
@@ -62,6 +62,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tracht-Digital-Solutions/tds-tool-qr-pkg.git"
+    "url": "git+https://github.com/Tracht-Digital-Labs/tds-tool-qr-pkg.git"
   }
 }

@@ -1,4 +1,4 @@
-import { defineToolPack, defineTool } from "@tracht-digital-solutions/tds-tools-contract";
+import { defineToolPack, defineTool } from "@tracht-digital-labs/tds-tools-contract";
 
 /**
  * QR-Code tool pack. One tool today; the pack shape lets more QR-adjacent tools
@@ -26,7 +26,7 @@ export default defineToolPack({
         "vcard",
         "url",
       ],
-      component: "@tracht-digital-solutions/tds-tool-qr/tools/QrCode.astro",
+      component: "@tracht-digital-labs/tds-tool-qr/tools/QrCode.astro",
       seo: {
         title: "QR-Code erstellen, kostenlos & ohne Anmeldung",
         description:

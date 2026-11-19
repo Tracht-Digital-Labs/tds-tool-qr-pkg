@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import QRCode from "qrcode";
-import { Alert } from "@tracht-digital-solutions/tds-shared/alert";
-import { downloadUrl } from "@tracht-digital-solutions/tds-shared/download";
+import { Alert } from "@tracht-digital-labs/tds-shared/alert";
+import { downloadUrl } from "@tracht-digital-labs/tds-shared/download";
 
 type Mode = "url" | "wifi" | "vcard";
 type Ecc = "L" | "M" | "Q" | "H";
